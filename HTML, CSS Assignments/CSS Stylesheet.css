@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form {
+    margin-left: 20px; /* Adjust as needed */
+    height: 500px; /* Match the image height */
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Gap between inputs */
+}
+.form input {
+    height: 40px;
+    width: 350px; /* Set the width of the inputs */
+    padding: 5px; /* Adjust padding as needed */
+    margin-bottom: 60px; /* Adjust margin bottom as needed */
+}
