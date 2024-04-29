@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href = "CSS Stylesheet.css">
+</head>
+<body>
+    <div class="form">
+        <h2>Login</h2>
+        <form action="#" onsubmit = "return validateForm()" method="post">
+            <input type="text" name="name" id="name" placeholder="Full Name"><br>
+            <input type="email" name="email" id="email" placeholder="Email"><br>
+            <input type="text" name="rollno" id="rollno" placeholder="Roll Number"><br>
+            <input type="text" name="college" id="college" placeholder="College Name"><br>
+            <input type="password" name="password" id="password" placeholder="Password"><br>
+            <input type="submit" value="Submit">
+        </form>
+        <script>
+            function validateForm() {
+                const name = document.getElementById("name").value;
+                const email = document.getElementById("email").value;
+                const rollno = document.getElementById("rollno").value;
+                const college = document.getElementById("college").value;
+                const password = document.getElementById("password").value;
+                if (name === "") {
+                    alert("Name should not be empty");
+                    return false;
+                }
+                if (email === "") {
+                    alert("E-mail should not be empty");
+                    return false;
+                }
+                if (rollno === "") {
+                    alert("Roll number should not be empty");
+                    return false;
+                }
+                if (college === "") {
+                    alert("Name of the college should not be empty");
+                    return false;
+                }
+                if (password === "") {
+                    alert("Password should not be empty");
+                    return false;
+                }
+                return true;
+            }
+        </script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+body, html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form input {
+    height: 40px;
+    width: 350px;
+    margin-bottom: 60px;
+}
