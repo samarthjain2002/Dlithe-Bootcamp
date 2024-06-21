@@ -1,0 +1,20 @@
+03-06-2024 [Monday]
+
+OOPS - Object Oriented Programming Structure/System
+
+Classes, Objects, Abstraction, Encapsulation, Polymorphism, Inheritence
+Intance and Static methods
+
+Instance methods
+Instance methods in different class is accessed using an instance
+Ex: Sample sample = new Sample();
+	sample.instanceMethod();
+Instance methods in the same class is also accessed using an instance
+Ex: OOPS o = new OOPS();
+	o.instanceMethod();
+
+Static methods
+Static method in different class is not accessed using an instance, but instead using Classname
+Ex: Sample.staticmethod();		//Where Sample is classname
+Static method in same class does not need any instance to be called
+Ex: staticmethod();				//Where the method is in same class
