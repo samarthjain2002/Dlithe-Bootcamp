@@ -1,0 +1,10 @@
+Task1
+id name training age
+Task2
+if age > 18
+	Elligible to vote
+	Driving License
+else
+	No
+
+https://github.com/PallaviKatari/Dlithe_CSharp_Training
