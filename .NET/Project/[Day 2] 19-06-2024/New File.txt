@@ -1,0 +1,13 @@
+https://www.stakeholdermap.com/project-templates/requirements-template.html
+
+https://docs.google.com/document/d/1oVlDH7ooQdWdjzVYGNL_oOQptDFwA2WDRqIk_qnLPpg/edit
+
+https://www.google.com/imgres?imgurl=https://images.ctfassets.net/lzny33ho1g45/4PelTZiGfNPmB4QZfqRQz7/6574629f2f65ea45f155832bcf9a48a6/proof-of-concept-pdf-mockup.jpg?w%3D1400&tbnid=vmWlGZUp57No5M&vet=1&imgrefurl=https://zapier.com/blog/proof-of-concept/&docid=Q086YLF4D7bG4M&w=1400&h=987&source=sh/x/im/m1/1&kgs=28a49c55608740ec&shem=abme,trie
+
+
+The Learning Management System (LMS):
+It allows users to register and log in, with roles assigned as Admin, Instructor, or Student.
+Admins can manage courses and users, while instructors can create and manage course content, including text, videos, PDFs, and quizzes.
+Students can browse and enroll in courses, access materials, and track their progress through course completion markers and feedback on quizzes.
+Each course will have a discussion forum for threaded communication between students and instructors.
+The system must send notifications for course updates and deadlines and allow admins and instructors to generate and export reports on student progress and course performance.
