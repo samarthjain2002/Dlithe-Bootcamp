@@ -1,0 +1,46 @@
+Learning Management System (LMS)
+
+Technological Requirements: HTML, CSS, JAVASCRIPT, BOOTSTRAP, .NET, SQL SERVER, ENTITY FRAMEWORK, ASP.NET CORE, C#
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+System Purpose and Scope:
+enhance learning experiences, streamline course management, and facilitate effective communication.
+· What types of data will the system manage? (e.g., course content, student records, grades, assignments)
+· Who are the main users of the system? (e.g., students, instructors, administrators, support staff)
+
+
+Functional Requirements:
+
+### Data Management:
+- **Collect, Read, Retrieve, and Store** course content, student records, grades, and assignments securely and efficiently.
+- **Facilitate data entry and updates** by authorized users.
+- **Enable data search and filtering** based on various criteria (e.g., course name, student ID, grade range).
+- **Implement robust data backup and disaster recovery procedures** to ensure data integrity and availability.
+
+### Learning Support:
+- **Provide course management functionalities** including course creation, editing, and deletion.
+- **Facilitate communication and collaboration** among students and instructors through discussion forums and messaging.
+- **Allow for remote learning and assessments** through online quizzes, assignments, and video lectures.
+
+### Administrative Functions:
+- **Manage user accounts and roles** including students, instructors, and administrators.
+- **Facilitate course registration and enrollment** processes for students.
+- **Generate reports** for academic performance, attendance, and compliance with educational standards.
+- **Track learning materials and resources** to ensure availability and proper usage.
+
+
+
+Non-Functional Requirements:
+
+Performance
+Faster Response and data access 
+High Speed and Efficient to maintain the patient data 
+Cost : 
+Development and Implementation cost only.
+Maintenance and data storage costs.
+Usability
+User-friendly interface with documentation of the application with sample demo.
+Application is accessible to all the actors based on their requirements or the content needed for that role.
