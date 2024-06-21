@@ -1,0 +1,19 @@
+Projects:
+
+Analysis: Number of actors and their responsibilities.
+		  Use case and understanding end-user (Targetted users).
+Actors: Users, admin, super-admin
+
+Software Engineering Process
+
+1) Requirement collection:
+	a) Functional requirements: How the application works in words
+	b) Non-functional requirements: Performance and rendering speeds
+
+2) Mind-map: This comes under new idea with old project
+
+3) Flow diagram: Flow of data
+
+4) Architecture Design
+
+5) Data Base Designing
