@@ -1,0 +1,21 @@
+Single Page Applications (SPA)
+Open Source
+React
+	JSX (JavaScript Extension)
+MCV
+
+Advantages of React
+1) Virtual DOM
+2) Components (Class, State, UseEffect, UseState)
+
+Methods to create a React app
+npx create-react-app <appName>
+
+npm create vite@latest
+	Select framework
+	
+Task
+Download node.js
+Create react app
+Go through the advantages of Virtual DOM vs Real DOM and it's working
+CRA (Create React App) Template
